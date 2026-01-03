@@ -10,7 +10,7 @@ target("exercise00")
 
 -- 变量与运算符
 target("exercise01")
-    add_files("01_variable&add/main.cpp")
+    add_files("01_variable_add/main.cpp")
 
 -- 函数、声明和定义
 target("exercise02")
@@ -18,7 +18,7 @@ target("exercise02")
 
 -- 形参实参
 target("exercise03")
-    add_files("03_argument&parameter/main.cpp")
+    add_files("03_argument_parameter/main.cpp")
 
 -- static 关键字
 target("exercise04")
@@ -42,7 +42,7 @@ target("exercise08")
 
 -- 枚举/联合体
 target("exercise09")
-    add_files("09_enum&union/main.cpp")
+    add_files("09_enum_union/main.cpp")
 
 -- “普通”类型
 target("exercise10")

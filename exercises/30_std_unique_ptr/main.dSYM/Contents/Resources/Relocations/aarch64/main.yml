@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/tom_hu/Documents/学习/InfiniTensor/C++/learning-cxx/exercises/30_std_unique_ptr/main"
+relocations:     []
+...
